@@ -1,17 +1,75 @@
 # portfolio-series-temporal
 
-Projetos de análise e previsão com séries temporais.
+Estudos de s├®ries temporais com modelagem, previs├úo e avalia├º├úo de cen├írios.
 
-## Problema
-Modelar comportamento temporal e testar cenários de previsão.
+![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)
+![Portfolio](https://img.shields.io/badge/Portfolio-Data%20Engineering%20%2B%20IA-0A66C2?style=flat)
 
-## Solução
-- Preparação da série
-- Modelagem e avaliação
-- Interpretação de tendência/sazonalidade
+---
 
-## Tecnologias
-Python · Time Series · Forecasting · Jupyter Notebook
+## Sobre o projeto
 
-## Resultado
-Modelos e análises que servem como base para decisões orientadas por previsão.
+Este repositório faz parte do meu portfólio em **Data Engineering + IA aplicada**, com foco em clareza técnica, reprodutibilidade e comunicação de resultado.
+
+---
+
+## O que já está implementado
+
+| Área | Descrição |
+|------|-----------|
+| **Escopo** | Projeto técnico com foco em dados e aplicação prática |
+| **Entrega** | Estrutura organizada para estudo, evolução e demonstração |
+| **Documentação** | README padronizado para leitura rápida de recrutadores e pares técnicos |
+
+---
+
+## Roadmap (visão de evolução)
+
+- Fortalecer reprodutibilidade (scripts e instruções de execução)
+- Melhorar cobertura de documentação por módulo
+- Adicionar métricas/resultados quando aplicável
+
+---
+
+## Stack atual
+
+- Linguagem principal: **R**
+- Tópicos: time-series, forecasting, python, portfolio
+
+---
+
+## Como rodar localmente
+
+### Pré-requisitos
+
+- Git
+- Ambiente compatível com a stack do projeto
+
+### Passos
+
+`ash
+git clone https://github.com/FlavioMacaubas/portfolio-series-temporal.git
+cd portfolio-series-temporal
+
+# Crie e ative seu ambiente (se aplicável)
+# Instale dependências (se houver)
+# Execute notebooks/scripts conforme estrutura do projeto
+`
+
+---
+
+## Estrutura do repositório
+
+`	ext
+portfolio-series-temporal/
+├── notebooks/   # quando aplicável
+├── src/         # quando aplicável
+├── data/        # quando aplicável
+└── README.md
+`
+
+---
+
+## Licença
+
+Este projeto é disponibilizado para fins de **portfólio** e aprendizado. Ajuste a licença conforme sua necessidade.
